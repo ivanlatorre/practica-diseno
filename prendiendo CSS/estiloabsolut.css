@@ -1,0 +1,51 @@
+* {
+	padding: 0px;
+	margin:  10px;
+	font-size:30px;
+	font-family: 'Lobster', cursive;
+	background: #000
+
+}
+div {
+	display: block;
+	background: green;
+	position: absolute;
+
+}
+div div {
+	height: 75px;
+	width: 75px;
+	background: yellow;
+
+}
+.contenedor {
+	margin: 50px auto;
+	position: relative;
+	border: 4px solid red;
+	height: 400px;
+	width: 400px;
+}
+.caja1 {
+	
+}
+.caja2 {
+	right: 0;
+	
+	
+}
+.caja3 {
+	right: 0;
+	bottom: 0;
+	
+}
+.caja4 {
+	bottom:0; 
+}
+.caja5 {
+	top:0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+
+}

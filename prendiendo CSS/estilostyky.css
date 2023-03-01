@@ -1,0 +1,15 @@
+* {
+	padding: 0px;
+	margin:  10px;
+	font-size:40px;
+	font-family: 'Lobster', cursive;
+	font-weight: 100;
+
+}
+
+.caja-fixed {
+	background:red;
+	position: sticky;
+	top: 0;
+	margin-top: 100px; 
+}
